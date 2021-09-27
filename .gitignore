@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints
+.temp
+.doc
+.git
+.tmp
+.idea
+venv
+requirements.txt
